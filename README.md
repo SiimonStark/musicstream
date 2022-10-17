@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project MusicStream
 
 Develop an elegant React.js Music Application. 
 
